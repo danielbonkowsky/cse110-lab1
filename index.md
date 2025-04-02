@@ -36,3 +36,5 @@ Here's the order of how fun those things will be:
 1. Go to the beach
 2. Go on a walk
 3. Look at my [README](README.md) file
+
+By this point, you probably want to get back up to the top of this page and read it again. Click [this](#daniel-bonkowsky) to do that.
